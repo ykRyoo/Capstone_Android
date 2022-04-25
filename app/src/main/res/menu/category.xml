@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/paper_category"
+        android:title="종이류" />
+    <item android:id="@+id/paperPack_category"
+        android:title="종이팩" />
+    <item android:id="@+id/metalCan_category"
+        android:title="금속캔" />
+    <item android:id="@+id/scrapMetal_category"
+        android:title="고철" />
+    <item android:id="@+id/plastic_category"
+        android:title="플라스틱" />
+    <item android:id="@+id/vinyl_category"
+        android:title="비닐" />
+    <item android:id="@+id/styrofoam_category"
+        android:title="스티로폼" />
+    <item android:id="@+id/garbageBag_category"
+        android:title="종량제봉투" />
+    <item android:id="@+id/bulkyWaste_category"
+        android:title="대형 폐기물" />
+</menu>

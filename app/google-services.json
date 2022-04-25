@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938515882053",
+    "project_id": "capstone-d1883",
+    "storage_bucket": "capstone-d1883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938515882053:android:2e6bc86dbdf487bfb1032c",
+        "android_client_info": {
+          "package_name": "org.techtown.capture.intent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938515882053-6c3lopc6qopn2v9m5gsdktlcqoh0klk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt1TDxNSWSef9M27LD0Hw5Wl8WRrqUGXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938515882053-6c3lopc6qopn2v9m5gsdktlcqoh0klk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
